@@ -8,6 +8,7 @@
     "doc": "docs",
     "test": "tests"
   },
+  "types": "index.d.ts",
   "private": false,
   "main": "dist/vue-select.js",
   "license": "MIT",
